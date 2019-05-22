@@ -1,3 +1,6 @@
+Peronsal copy, hope to get convert this project to work on FEH
+
+
 # Fate-Grand-Order_Lua
 This script supported CN, EN, JP and TW servers on Android devices < Oreo 8.0 and emulators.
 
